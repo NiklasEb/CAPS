@@ -1,4 +1,4 @@
-name: RL_venv_neww
+name: CAPS
 channels:
   - defaults
 dependencies:
